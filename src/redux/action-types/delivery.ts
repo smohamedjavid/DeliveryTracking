@@ -1,0 +1,3 @@
+export const DELIVERY_ACTION = {
+  RESET: 'DELIVERY_RESET',
+};
